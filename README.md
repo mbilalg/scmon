@@ -1,2 +1,2 @@
 # scmon
-Hello world
+Hello world!
